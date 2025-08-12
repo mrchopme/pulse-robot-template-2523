@@ -7,11 +7,10 @@ const ImageShowcaseSection = () => {
       <div className="container px-4 sm:px-6 lg:px-8 mx-auto">
         <div className="max-w-3xl mx-auto text-center mb-8 sm:mb-12 animate-on-scroll">
           <h2 className="text-3xl sm:text-4xl font-display font-bold tracking-tight text-gray-900 mb-3 sm:mb-4">
-            Experience the Future Today
+            Experience Seamless Across Your Tools
           </h2>
           <p className="text-base sm:text-lg text-gray-600">
-            Our cutting-edge humanoid robot is designed to transform how we interact 
-            with technology in everyday environments.
+            Seamless connects your apps so your work flows naturally—without copy-paste or context loss.
           </p>
         </div>
         
@@ -19,7 +18,7 @@ const ImageShowcaseSection = () => {
           <div className="w-full">
             <img 
               src="/lovable-uploads/c3d5522b-6886-4b75-8ffc-d020016bb9c2.png" 
-              alt="Advanced humanoid robot with orange and white design" 
+              alt="Illustration of Seamless connecting multiple apps" 
               className="w-full h-auto object-cover"
             />
           </div>
