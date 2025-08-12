@@ -101,7 +101,7 @@ const HumanoidSection = () => {
             </div>
             
             <h2 className="section-title text-3xl sm:text-4xl md:text-5xl font-display font-bold mb-1 md:mb-2">
-              Why Humanoid
+              Technology Wasn't Built For Humans
             </h2>
           </div>
           
@@ -135,7 +135,7 @@ const HumanoidSection = () => {
               <div className="relative z-10 p-5 sm:p-6 md:p-8 h-full flex items-center">
                 <div className="max-w-lg">
                   <h3 className="text-2xl sm:text-3xl md:text-4xl font-display text-white font-bold leading-tight mb-4">
-                    We're giving AI a way to navigate the physical world
+                    The Ecosystem Prison - Locked into Apple or Google, Microsoft or Notion. Nothing talks to each other.
                   </h3>
                 </div>
               </div>
@@ -171,7 +171,7 @@ const HumanoidSection = () => {
               <div className="relative z-10 p-5 sm:p-6 md:p-8 h-full flex items-center">
                 <div className="max-w-lg">
                   <h3 className="text-2xl sm:text-3xl md:text-4xl font-display text-white font-bold leading-tight mb-4">
-                    We're bringing adaptive intelligence to where humans work
+                    The Copy-Paste Tax - Moving between apps like a human clipboard. Same information, different formats.
                   </h3>
                 </div>
               </div>
@@ -207,7 +207,7 @@ const HumanoidSection = () => {
               <div className="relative z-10 p-5 sm:p-6 md:p-8 h-full flex items-center">
                 <div className="max-w-lg">
                   <h3 className="text-2xl sm:text-3xl md:text-4xl font-display text-white font-bold leading-tight mb-4">
-                    We're creating companions, <span className="text-[#FC4D0A]">not replacements</span>
+                    The Context Collapse - Every new tool is a fresh start. Re-explain everything. Rebuild from zero.
                   </h3>
                 </div>
               </div>
