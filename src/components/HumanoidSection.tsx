@@ -111,15 +111,14 @@ const HumanoidSection = () => {
               
               <div className="absolute top-4 right-4 z-20">
                 <div className="inline-flex items-center justify-center px-4 py-2 rounded-full bg-white/20 backdrop-blur-sm text-white">
-                  <span className="text-sm font-medium">The vision</span>
+                  <span className="text-sm font-medium">The Ecosystem Prison</span>
                 </div>
               </div>
               
               <div className="relative z-10 p-5 sm:p-6 md:p-8 h-full flex items-center">
                 <div className="max-w-lg">
-                  <h3 className="text-2xl sm:text-3xl md:text-4xl font-display text-white font-bold leading-tight mb-4">
-                    The Ecosystem Prison - Locked into Apple or Google, Microsoft or Notion. Nothing talks to each other.
-                  </h3>
+                  <h3 className="text-2xl sm:text-3xl md:text-4xl font-display text-white font-bold leading-tight mb-4">Locked into Apple or Google, Microsoft or Notion.
+Nothing talks to each other.</h3>
                 </div>
               </div>
             </div>
@@ -147,7 +146,8 @@ const HumanoidSection = () => {
               
               <div className="relative z-10 p-5 sm:p-6 md:p-8 h-full flex items-center">
                 <div className="max-w-lg">
-                  <h3 className="text-2xl sm:text-3xl md:text-4xl font-display text-white font-bold leading-tight mb-4">Moving between apps like a human clipboard. Same information, different formats.</h3>
+                  <h3 className="text-2xl sm:text-3xl md:text-4xl font-display text-white font-bold leading-tight mb-4 mx-[14px]">Moving between apps like a human clipboard.
+Same information, different formats.</h3>
                 </div>
               </div>
             </div>
