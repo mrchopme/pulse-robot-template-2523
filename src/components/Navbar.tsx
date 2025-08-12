@@ -54,11 +54,7 @@ const Navbar = () => {
           }}
           aria-label="Seamless"
         >
-          <img 
-            src="/logo.svg" 
-            alt="Seamless Logo" 
-            className="h-7 sm:h-8" 
-          />
+          <span className="brand-logo text-xl sm:text-2xl select-none">Seamless</span>
         </a>
 
         {/* Desktop Navigation */}
